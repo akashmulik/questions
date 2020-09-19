@@ -5,9 +5,30 @@ what are Spring bean scopes
 what is dependency injection
 ways to achieve dependency injection
 spring mvc architecutre/flow
+how to return only json data from spring mvc handler (@ResponseBody)
+how to get data in spring handler ? how many ways
+what if multiple beans of same type (injection by name)
+how to handle nested inter dependenied betoween tow beans? (partial initialization, setter injection)
 
 Hibernate
 How to defince datasource, session factory
 how to manage transaction - declarative, scripted
 hibernate entity states
 how to make ditached entity again persistent
+session vs session factiry
+how to write native queries in hibernate
+How many levels of cache in hib
+How to do hibernate mappings (what annotations are required)
+
+miscellaneous
+Hibernate inheritance relationship
+details about hib cache.. how to enable? What class used?
+
+Spring boot
+What are advantages of spring boot
+what is actuator? how to activate it?
+whats profiling
+how to change default port
+whats fat jar in spring boot
+how to run spring boot app on external server
+what are embedded servers otpions
