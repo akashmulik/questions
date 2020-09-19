@@ -1,0 +1,13 @@
+Spring
+
+What is IOC container
+what are Spring bean scopes
+what is dependency injection
+ways to achieve dependency injection
+spring mvc architecutre/flow
+
+Hibernate
+How to defince datasource, session factory
+how to manage transaction - declarative, scripted
+hibernate entity states
+how to make ditached entity again persistent
